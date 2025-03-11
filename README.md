@@ -20,4 +20,4 @@ This project simulates a stock order matching system where multiple threads (rep
 3. Run the `main.py` file to start the simulation.
 
 ```bash
-python main.py
+python3 main.py
